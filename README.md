@@ -93,4 +93,6 @@ int sum(int x, int y) {
 [네이버](http://www.naver.com "으앗")
 <a href="https://www.naver.com" target="_blank"> 새창에서 열기(?) </a>
 
-<a 
+## 이미지 업로드 : 해당 리포지토리에 이미지들 업로드 한 뒤 ![설명메세지](./파일명)
+![선생님](./zzal.jpg)
+
